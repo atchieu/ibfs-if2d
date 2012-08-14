@@ -1,4 +1,4 @@
-ibfs
+IBFS-IncompressibleFluids-2D 
 ====
 
 Immersed boundary fractional step method written in FORTRAN 90
